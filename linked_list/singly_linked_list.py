@@ -121,9 +121,3 @@ class SinglyLinkedList:
 
         return lst + f"[None]"
 
-
-
-
-
-lst = SinglyLinkedList()
-print(lst)
